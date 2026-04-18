@@ -34,5 +34,3 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          plugin_followup: yes
